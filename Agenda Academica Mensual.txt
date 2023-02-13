@@ -1,0 +1,24 @@
+† SEMANA 1 ¬
+ |  L: 12 - 14 Cal. Dif. ¦ 16 - 20 Instalar Qt / Entender C++
+ |  M: 8 - 10 Informática ¦ 11 - 13 Pract. Progresiones ¦ 16 - 18 Álgebra ¦ 18 - 20 Inglés
+ |  W: 10 - 12 Cal. Dif. ¦ 16 - 20 Repaso cálculo
+ |  J: 8 - 10 Informática ¦ 16 - 18 Álgebra ¦ 18 - 20 Inglés
+ |  V: 10 - 12 Cal. Dif.  ¦ 13 - 16 Lab. Informática
+† SEMANA 2 ¬
+ |  L: 16 - 20 Estudiar C++
+ |  M: 8 - 10 Informática ¦ 12 -14 Intr. Teleco ¦ 16 - 18 Álgebra ¦ 18 - 20 Inglés
+ |  W: 10 - 12 Cal. Dif.
+ |  J: 8 - 10 Informática ¦ 16 - 18 Álgebra ¦ 18 - 20 Inglés
+ |  V: 10 - 12 Cal. Dif.  ¦ 13 - 16 Lab. Informática
+† SEMANA 3 ¬
+ |  L: 16 - 20 Estudiar C++
+ |  M: 8 - 10 Informática ¦ 16 - 18 Álgebra ¦ 18 - 20 Inglés
+ |  W: 10 - 12 Cal. Dif.
+ |  J: 8 - 10 Informática ¦ 16 - 18 Álgebra ¦ 18 - 20 Inglés
+ |  V: 10 - 12 Cal. Dif.  ¦ 13 - 16 Lab. Informática
+† SEMANA 4 ¬
+ |  L: 16 - 20 Estudiar C++
+ |  M: 8 - 10 Informática ¦ 12 -14 Intr. Teleco ¦ 16 - 18 Álgebra ¦ 18 - 20 Inglés
+ |  W: 10 - 12 Cal. Dif.
+ |  J: 8 - 10 Informática ¦ 16 - 18 Álgebra ¦ 18 - 20 Inglés
+ |  V: 10 - 12 Cal. Dif.  ¦ 13 - 16 Lab. Informática
